@@ -1,25 +1,59 @@
-h1{color: rgb(211, 248, 49);font-family: 'Lobster', cursive;}
-.q{width: 100px; ;
-border: 2px solid rgb(77, 24, 102);}
-
-
-.das{font-size: 40px;color: rgb(255, 252, 48);}
-html {
-    background-image: url(background.jpg);
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-attachment: fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-  }
-  .fffd{
-    color: rgb(189, 34, 34);
-    font-size: 25px;
+h1
+{
+  color: rgb(211, 248, 49);font-family: 'Lobster'; padding: 20px 30px ;
 }
-.ruls{color: rgba(215, 34, 170, 0.589);font-size: 30px;}
-.J{color: red;font-size: 25px;}
-li{font-size: 20px;}
-.as{color: green; font-size: 25px;font-family: 'Playfair Display', serif;}
-li{border: 20;color: gold;}
+
+.q {
+  width: 100px;
+  border: 2px solid rgb(77, 24, 102);
+}
+
+
+.das {
+  font-size: 40px;
+  color: rgb(255, 252, 48);
+}
+
+
+html {
+  background-image: url(background.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+a {
+  color: rgb(189, 34, 34);
+ 
+  font-size: 25px;
+  padding: 20px 30px ;
+}
+
+
+.ruls {
+  color: rgba(215, 34, 170, 0.589);
+  font-size: 30px;
+}
+
+.J {
+  color: red;font-size: 25px; 
+}
+
+
+.as {
+  color: green;
+  font-size: 25px;
+  font-family: 'Playfair Display', serif;
+}
+
+.w {
+  text-align: center;
+  font-family: 'Playfair Display', serif;
+  text-decoration-style: none;
+  display: block;
+  color: azure;
+}
